@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me
+
+I have worked about 15 years in the IT area, developing applications for Industrial companies and implementing SAP and Dynamics AX.
+I obtained a degree as Engineer in Computer Science from the Faculty of Engineering at Don Bosco University.
+I'm currently developing cross-platform applications focused on mobile platforms with Flutter.
+
+You can contact me on: chris.romerop@outlook.com
 
 <!--
 **chris-romerop/chris-romerop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
