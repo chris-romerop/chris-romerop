@@ -1,8 +1,6 @@
 ### About me
 
-I have worked about 15 years in the IT area, developing applications for Industrial companies and implementing SAP and Dynamics AX.
-I obtained a degree as Engineer in Computer Science from the Faculty of Engineering at Don Bosco University.
-I'm currently developing cross-platform applications focused on mobile platforms with Flutter.
+I am a dedicated and proactive full-stack developer with over two decades of experience in the software development field. With a strong background in both front-end and back-end technologies, I excel in creating, implementing, and maintaining complex applications. My expertise ranges from legacy systems such as FoxPro to modern frameworks like NodeJS and Flutter. I have a proven track record of successfully migrating and upgrading old systems, improving efficiency, and enhancing functionality. My passion for technology and continuous learning drives me to stay updated with the latest industry trends and innovations. I am known for my strong analytical skills, problem-solving abilities, and effective communication, making me a valuable asset to any team.
 
 You can contact me in: chris.romerop@outlook.com
 
